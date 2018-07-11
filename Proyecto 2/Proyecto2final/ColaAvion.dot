@@ -1,0 +1,10 @@
+digraph colaavion{
+nodo1394460441[label="
+Pasajero: 23
+Avion:  15
+Tipo: Mediano
+Pasajeros: 23
+Desabordaje: 0
+Turnos Mantenimiento: 3"];
+
+}

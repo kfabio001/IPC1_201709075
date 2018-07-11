@@ -1,0 +1,42 @@
+digraph lista{
+1[label="Estacion: 1
+Estado: Ocupado
+Avion 14
+Tipo: Grande
+Pasajeros: 39
+Desabordaje: 0
+Mantenimiento: 3"];
+1->2;
+2[label="Estacion: 2
+Estado: Ocupado
+Avion 4
+Tipo: Mediano
+Pasajeros: 19
+Desabordaje: 0
+Mantenimiento: -8"];
+2->3;
+3[label="Estacion: 3
+Estado: Ocupado
+Avion 3
+Tipo: Grande
+Pasajeros: 30
+Desabordaje: 0
+Mantenimiento: -8"];
+3->4;
+4[label="Estacion: 4
+Estado: Ocupado
+Avion 13
+Tipo: Mediano
+Pasajeros: 19
+Desabordaje: 0
+Mantenimiento: 1"];
+4->5;
+5[label="Estacion: 5
+Estado: Ocupado
+Avion 11
+Tipo: Pequeño
+Pasajeros: 10
+Desabordaje: 0
+Mantenimiento: -3"];
+
+}
